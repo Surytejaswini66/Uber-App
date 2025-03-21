@@ -57,6 +57,7 @@
     "zustand": "^4.5.4"
   },
   "devDependencies": {
+     "expo-cli": "^7.0.0",
     "@babel/core": "^7.20.0",
     "@types/jest": "^29.5.12",
     "@types/react": "~18.2.45",
